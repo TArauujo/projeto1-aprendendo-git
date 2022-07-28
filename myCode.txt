@@ -1,7 +1,4 @@
 hi, my name is Thomas.
 hello, i am a new line.
-<<<<<<< HEAD
 Alteração de sábado.
-=======
 Hello, my name is Thomas Carvalho.
->>>>>>> staging

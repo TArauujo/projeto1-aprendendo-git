@@ -6,6 +6,7 @@ int main(void){
 	
 	
 	printf("Aprendendo GIT");
+	printf("Avançando...");
 	
 	return 0;
 }
